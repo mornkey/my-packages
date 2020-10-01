@@ -1,0 +1,18 @@
+IDEAL data generator package be like ..
+
+- easy to gen but also capable of a powerful customization
+    call the script anywhere, without providing any param OR with a lot of params 
+
+- fast and optimized (well structured)
+    read a lot more python package examples
+
+- easy to install and set up
+- support wide variaty of formats
+
+IDEAS
+
+--output_path   : path to gen data to
+--format        : file format to gen
+
+pending tasks
+1. 
